@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommercialOptimiser.Models\CommercialOptimiser.Models.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Interfaces\" />
+    <None Remove="Services\" />
+    <None Remove="FactoryImplementations\" />
+    <None Remove="Combinatorics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Internals\" />
+    <Folder Include="FactoryServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Combinatorics" Version="2.0.0" />
+  </ItemGroup>
+</Project>

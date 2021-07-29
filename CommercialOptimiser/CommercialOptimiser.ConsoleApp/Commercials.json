@@ -1,0 +1,52 @@
+﻿[
+  {
+    "Name": "Commercial 1",
+    "Type": 0,
+    "Demographic": 0
+  },
+  {
+    "Name": "Commercial 2",
+    "Type": 1,
+    "Demographic": 1
+  },
+  {
+    "Name": "Commercial 3",
+    "Type": 1,
+    "Demographic": 2
+  },
+  {
+    "Name": "Commercial 4",
+    "Type": 0,
+    "Demographic": 1
+  },
+  {
+    "Name": "Commercial 5",
+    "Type": 0,
+    "Demographic": 1
+  },
+  {
+    "Name": "Commercial 6",
+    "Type": 2,
+    "Demographic": 0
+  },
+  {
+    "Name": "Commercial 7",
+    "Type": 2,
+    "Demographic": 1
+  },
+  {
+    "Name": "Commercial 8",
+    "Type": 0,
+    "Demographic": 2
+  },
+  {
+    "Name": "Commercial 9",
+    "Type": 1,
+    "Demographic": 0
+  },
+  {
+    "Name": "Commercial 10",
+    "Type": 2,
+    "Demographic": 2
+  }
+]

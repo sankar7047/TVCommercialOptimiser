@@ -1,0 +1,47 @@
+﻿[
+  {
+    "Type": 0,
+    "Demographic": 0,
+    "Rating": 80
+  },
+  {
+    "Type": 0,
+    "Demographic": 1,
+    "Rating": 100
+  },
+  {
+    "Type": 0,
+    "Demographic": 2,
+    "Rating": 250
+  },
+  {
+    "Type": 1,
+    "Demographic": 0,
+    "Rating": 50
+  },
+  {
+    "Type": 1,
+    "Demographic": 1,
+    "Rating": 120
+  },
+  {
+    "Type": 1,
+    "Demographic": 2,
+    "Rating": 200
+  },
+  {
+    "Type": 2,
+    "Demographic": 0,
+    "Rating": 350
+  },
+  {
+    "Type": 2,
+    "Demographic": 1,
+    "Rating": 150
+  },
+  {
+    "Type": 2,
+    "Demographic": 2,
+    "Rating": 500
+  }
+]
