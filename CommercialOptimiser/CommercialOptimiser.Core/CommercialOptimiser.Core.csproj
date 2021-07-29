@@ -12,11 +12,15 @@
     <None Remove="Services\" />
     <None Remove="FactoryImplementations\" />
     <None Remove="Combinatorics" />
+    <None Remove="Extensions\" />
+    <None Remove="Exceptions\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
     <Folder Include="Internals\" />
     <Folder Include="FactoryServices\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Exceptions\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Combinatorics" Version="2.0.0" />
